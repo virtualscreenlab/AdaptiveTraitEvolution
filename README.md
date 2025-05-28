@@ -80,7 +80,7 @@ with just a few conditions:
 - Use it commercially (just give credit!).
 
 📝 Please Remember To:
-- Include credit to the original authors: Sergey Shityakov and research collaborator: Muhammad Mazhar Fareed.
+- Include credit to the original authors: Sergey Shityakov, Muhammad Mazhar Fareed.
 - Mention this repository (https://github.com/virtualscreenlab/AdaptiveTraitEvolution) in any derivative work or publication.
 - Clearly state any major changes you made, especially if you publish or share your own version.
 
