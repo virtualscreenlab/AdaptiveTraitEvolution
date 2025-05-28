@@ -84,9 +84,26 @@ with just a few conditions:
 - Mention this repository (https://github.com/virtualscreenlab/AdaptiveTraitEvolution) in any derivative work or publication.
 - Clearly state any major changes you made, especially if you publish or share your own version.
 
-🚫 What You Cannot Do:
-- Hold the original authors or contributors liable for any issues or results based on this code or data.
-- Use this work to mislead others about scientific findings or authorship.
+## 🚫 What You Cannot Do
+
+By using this repository, you agree **not to**:
+
+- ❌ Hold the original authors or contributors liable for any outcomes, interpretations, or damages resulting from use of the code, models, or datasets.
+
+- ❌ Use this work to mislead others regarding scientific conclusions, statistical evidence, or authorship.
+
+- ❌ Redistribute the code or data without proper attribution, especially in academic or commercial settings.
+
+- ❌ Use the simulations or visualizations to fabricate ecological evidence or support pseudoscientific claims.
+
+- ❌ Claim authorship or exclusive rights over derived works without significant modification and proper acknowledgment.
+
+- ❌ Use the models in real-world decision-making (e.g., policy, conservation, environmental regulation) without thorough validation and peer review.
+
+- ❌ Extract data from this repository for resale, commercial profiling, or unauthorized surveillance.
+
+- ❌ Use the project outputs in any malicious, discriminatory, or harmful applications, including but not limited to ecological misinformation, biased data narratives, or scientific fraud.
+
 
 🤝 In Short:
 We’ve built this to advance science and support collaboration. Use it wisely and respectfully, and acknowledge the work we've done. If you improve it, we’d love to hear from you!
