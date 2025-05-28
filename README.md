@@ -22,6 +22,23 @@ Synthetic datasets were generated for stochastic modeling components.
 - `scripts/`: Python scripts for modeling and simulations.
 - `notebooks/`: Jupyter notebooks for exploratory data analysis and visualization.
 - `docs/`: Documentation on methods, model assumptions, and reproducibility steps.
+  AdaptiveTraitEvolution/
+├── data/                # Processed and raw ecological datasets
+├── scripts/             # Python modeling/simulation scripts
+├── notebooks/           # Jupyter notebooks for visualization
+├── models/              # Kotlin models for regression and stochastic processes
+├── tests/               # Unit tests for Kotlin models
+├── docs/                # Methodological documentation
+├── LICENSE              # Human-readable open-source license
+├── README.md            # Project overview and setup instructions
+└── build.gradle.kts     # Kotlin build configuration (Gradle Kotlin DSL)
+
+git clone https://github.com/virtualscreenlab/AdaptiveTraitEvolution.git
+cd AdaptiveTraitEvolution
+
+# Optional: For Python-based visualizations
+pip install -r notebooks/requirements.txt
+
 
 ## Data Sources
 Empirical data were sourced from:
@@ -48,12 +65,13 @@ Empirical data were sourced from:
 - **Description**: Includes nekton counts used to assess densities along marsh edges and adjacent shallow non-vegetated bottoms.
 - **Source**: Available via Data.gov.
 - **Access**: [Data.gov Nekton Datasets](https://catalog.data.gov/dataset/?_tags_limit=0&tags=nekton)
+  
 
 
-Copyright (c) 2025 Sergey Shityakov, Muhammad Mazhar Fareed
-AdaptiveTraitEvolution-Kotlin: Open Source License
+#### Copyright (c) 2025 Sergey Shityakov, Muhammad Mazhar Fareed
+**AdaptiveTraitEvolution: Source License**
 
-You're free to use, modify, and share everything in this repository — for research, education, or even commercial projects — with just a few conditions:
+with just a few conditions:
 
 ✅ What You Can Do:
 - Use this code and data in your own research, software, or analysis.
